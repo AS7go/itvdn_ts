@@ -1,9 +1,9 @@
 {
     "compilerOptions": {
+        "target": "es6",
         "module": "CommonJS",
         "sourceMap": true,
         "outDir": "./dist",
-        "lib": ["dom", "es2015"]
     },
     "include": ["./**/*.ts"],
     "exclude": ["node_modules"]

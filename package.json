@@ -1,7 +1,7 @@
 {
-  "name": "itvdn_ts",
+  "name": "typescript-fundamentals-lesson-2s",
   "version": "1.0.0",
-  "description": "TypeScript Fundamentals Заняття 1. Змінні та функції",
+  "description": "TypeScript Fundamentals Урок 2. Classes and Interfaces",
   "main": "index.js",
   "scripts": {
     "start": "npx tsc -w"
